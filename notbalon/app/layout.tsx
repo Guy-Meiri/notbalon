@@ -17,12 +17,12 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <div className="h-screen w-screen">
-          <div className="flex m-5 flex-col items-center justify-center gap-5 w-90">
-            <div>Enter for next level</div>
+        <div className="h-screen w-screen overflow-hidden ">
+          <div className="flex m-5 flex-col items-center justify-center gap-2 ">
+            <div></div>
             <input
               type="text"
-              placeholder="Type here"
+              placeholder="Enter your answer here"
               className="input rounded p-1 input-bordered w-full max-w-xs text-black"
             />
           </div>

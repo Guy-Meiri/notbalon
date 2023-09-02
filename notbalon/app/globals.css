@@ -18,5 +18,5 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: black;
+  background: rgb(15 23 42);
 }
