@@ -5,9 +5,9 @@ export default function Home() {
     <main className="flex h-full bg-slate-900 w-[100%] flex-col items-center gap-8 p-4">
       <Image src="/Level_1.png" alt="Level_1" height={600} width={600} />
       <div className="flex items-center flex-col overflow-hidden m-2 max-w-md">
-        <div className="bg-[#D0B5E9] rounded-[50%]">
+        <div className="">
           <Image
-            src="/pinkblub_circle.png"
+            src="/pinkblub_circle_final circle.png"
             alt="Level_1"
             height={180}
             width={180}
@@ -23,7 +23,7 @@ export default function Home() {
           -translate-y-9
           bg-slate-100 
           border-[#D0B5E9] 
-          border-4 textarea-bordered
+          border-2 textarea-bordered
           w-7/8
           overflow-hidden"
         >
