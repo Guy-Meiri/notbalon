@@ -27,8 +27,8 @@ export default function Home() {
           w-7/8
           overflow-hidden"
         >
-          {`What do we have here? A puny hooman who thinks he can solve my
-          riddles? Let's see if your little hooman brain can deal with this
+          {`What do we have here? A little hooman who thinks he can solve my
+          riddles? Let's see if your puny hooman brain can deal with this
           ancient text from my home planet. Surely you won't be able to
           comprehend the wisdom hidden within.`}
         </div>
